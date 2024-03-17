@@ -1,7 +1,7 @@
 # Weather Forecast App
 
-This Python script fetches current weather data from the OpenWeatherMap API based on the user's input of a city name.<br> 
-It then displays the weather information and writes it to a text file.
+<br> This Python script fetches current weather data from the OpenWeatherMap API based on the user's input of a city name.<br> 
+<br> It then displays the weather information and writes it to a text file.
 
 ## Usage
 
