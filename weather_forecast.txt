@@ -1,0 +1,7 @@
+
+Weather Stats for MOMBASA || 2024-03-18 01:05:36.267729
+--------------------------------------------------The weather Today is: overcast clouds
+Current temperature is: 27.810000000000002 degrees C
+Current humidity is: 81%
+Current wind speed is: 3.44 Kmh
+==================================================
